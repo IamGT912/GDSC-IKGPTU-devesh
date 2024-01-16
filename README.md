@@ -1,1 +1,1 @@
-a project by GDSC IKGPTU Android team 
+This is edited by me.
